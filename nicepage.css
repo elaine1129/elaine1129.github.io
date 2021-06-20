@@ -33738,9 +33738,9 @@ a.u-link.u-text-hover-grey-90:hover {
   white-space: nowrap;
   height: 57px;
   min-height: 16px;
-  width: 192px;
-  min-width: 68px;
-  margin: 22px auto;
+  width: 125px;
+  min-width: 42px;
+  margin: 21px auto 22px;
 }
 
 .u-footer .u-icon-1 {
@@ -33750,13 +33750,9 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-icon-2 {
   height: 100%;
 }
-
-.u-footer .u-icon-3 {
-  height: 100%;
-}
 @media (max-width: 1199px) {
   .u-footer .u-social-icons-1 {
-    width: 192px;
+    width: 125px;
   }
 }
 
